@@ -1,0 +1,11 @@
+var applePrice = 150;
+console.log(applePrice);
+var seenAfter = 21;
+console.log(typeof seenAfter);
+var name = "Shazzadur Rahman";
+console.log(name);
+console.log(typeof name);
+var isHot = true;
+var isCool = false;
+console.log(isCool);
+console.log(typeof isHot);
